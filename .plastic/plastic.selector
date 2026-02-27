@@ -1,0 +1,4 @@
+repository "2048/2048@7972061221310@cloud"
+  path "/"
+    br "/main"
+    co "/main"
